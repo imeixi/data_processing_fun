@@ -1,0 +1,2 @@
+5、
+python 5_deduplicate_rows.py -i deduplicate_rows.csv -o deduped.csv --subset '["id","name"]' 
